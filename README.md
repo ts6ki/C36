@@ -1,2 +1,3 @@
-# asynchronousBallMovement
-Boiler plate for ball moving aysnchronously
+# C36
+
+Further developement of a multiplayer racing game
